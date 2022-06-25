@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ann26
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python by myself
 - 💞️ I’m looking to collaborate on start-ups/ personal projects
 - 📫 How to reach me via my email: hothimyhoa26@gmail.com
 
